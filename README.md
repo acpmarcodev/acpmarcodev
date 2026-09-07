@@ -1,6 +1,6 @@
 ### Marco Pisani
 
-I build and operate the products of [Torphi Contise](https://github.com/torphidev),
+I build and operate the products of [Torphi Contise](https://github.com/torphi-contise),
 a Brazilian software company in business since 2003.
 
 **[BAYBO](https://baybo.app)** is a personal net worth tracker published on the

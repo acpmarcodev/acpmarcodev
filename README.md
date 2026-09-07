@@ -14,6 +14,8 @@ identity, access and billing. It covers registration, login, sessions, account
 recovery and the hard cases around them, plus catalogue, subscriptions,
 one-time purchases and entitlement delivery. Self-hosting is free.
 
+Repositories: [Concepts and documentation](https://github.com/torphi-contise/bullgate-concepts) · [Bullgate Access](https://github.com/torphi-contise/bullgate-access)
+
 Mostly .NET and Entity Framework on the backend, MySQL and PostgreSQL for data,
 React Native and Expo on mobile, Kubernetes and Argo CD for infrastructure.
 
